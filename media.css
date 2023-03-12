@@ -1,0 +1,23 @@
+@media screen and (max-width: 992px)
+    .con{
+
+    }
+    .sections
+    {
+        width: 30%;
+    }
+
+}
+
+@media screen and (max-width: 767px)
+{
+    .con
+    {
+        padding-left: 0px;
+    }
+    .sections
+    {
+        width: 100%;
+    }
+
+}
